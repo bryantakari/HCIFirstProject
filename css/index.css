@@ -76,7 +76,7 @@ nav>div>div{
 .tex{
     width: 900px;
     margin-top: 40px;
-    margin-left: 100px;
+    margin-left: 50px;
 }
 .tex>div{
     width: 700px;
@@ -107,9 +107,10 @@ nav>div>div{
     display: flex;
     justify-content: space-between;
     width: 95vw;
-    border: 15px solid #0f5238;
+    border: 15px solid #8ca39a;
     margin: auto;
 }
+
 
 .container{
     padding-bottom: 100px;
@@ -117,12 +118,12 @@ nav>div>div{
 
 .moviePoster{
     margin: 10px;
-    width: fit-content;
+    /* width: fit-content; */
 }
 
 .moviePoster>img{
-    width:300px;
-    height:450px;
+    width:200px;
+    height:300px;
 }
 footer{
     margin: none;

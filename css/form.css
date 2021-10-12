@@ -44,7 +44,7 @@ nav>div>div{
 .box{
     background-color: #0f5238;
     width: 50vw;
-    height: 90vh;
+    height: 100vh;
     
     margin: auto;
 }
@@ -90,14 +90,17 @@ form>div{
     /* margin-top: 100px; */
     
     width: fit-content;
-    margin: 50px 0px 0 300px;
+    margin: 30px auto 0 auto;
 
 }
-
+.box>h1{
+    color:#c49a48;
+    text-align: center;
+}
 button{
     background:#c49a48 ;
     font-size: 20px;
     color:#0f5238;
-    margin-left:130px ;
+    margin: auto;
     font-family: Arial, Helvetica, sans-serif;
 }
