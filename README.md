@@ -8,6 +8,8 @@ The image inside index.html will be changed if you hover it.
 ![alt text](https://github.com/bryantakari/HCIFirstProject/blob/main/2.PNG)
 This is the index.html where there will be navigation to form.html.
 
+This will be the form.html
+![alt text](https://github.com/bryantakari/HCIFirstProject/blob/main/3.PNG)
 Thats all for my first html css quiz from my college
 
 
